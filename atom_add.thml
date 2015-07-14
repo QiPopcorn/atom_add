@@ -1,0 +1,25 @@
+├── atom-beautify@0.28.7
+├── atom-material-ui@0.5.1
+├── autocomplete-paths@1.0.2
+├── autocomplete-python@0.5.1
+├── color-picker@2.0.9
+├── emmet@2.3.12
+├── jquery-snippets@1.0.0
+├── language-jade@0.5.1
+├── linter@1.2.3
+├── linter-csslint@0.0.14
+├── linter-htmlhint@0.0.17
+├── linter-jscs@1.12.0
+├── linter-jshint@1.0.4
+├── minimap@4.11.2
+├── seti-syntax@0.4.0
+└── seti-ui@0.7.1
+autocomplete-suggestion-list {
+  .icon {
+    line-height: 1.5em;
+  }
+
+  &.select-list.popover-list ol.list-group li {
+    line-height: 1.5em;
+  }
+}
