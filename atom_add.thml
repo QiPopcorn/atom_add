@@ -1,8 +1,9 @@
 ├── atom-beautify@0.28.7
-├── atom-material-ui@0.5.1
-├── autocomplete-paths@1.0.2
-├── autocomplete-python@0.5.1
-├── color-picker@2.0.9
+├── atom-material-ui@0.5.2
+├── AtomicChar@0.3.8
+├── autocomplete-paths@1.0
+├── autocomplete-python@0.
+├── color-picker@2.0.10
 ├── emmet@2.3.12
 ├── jquery-snippets@1.0.0
 ├── language-jade@0.5.1
@@ -10,7 +11,7 @@
 ├── linter-csslint@0.0.14
 ├── linter-htmlhint@0.0.17
 ├── linter-jscs@1.12.0
-├── linter-jshint@1.0.4
+├── linter-jshint@1.0.5
 ├── minimap@4.11.2
 ├── seti-syntax@0.4.0
 └── seti-ui@0.7.1
