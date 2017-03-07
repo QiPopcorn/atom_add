@@ -1,0 +1,15 @@
+// Place your key bindings in this file to overwrite the defaults
+[{
+    "key": "alt+/",
+    "command": "editor.action.triggerSuggest",
+    "when": "editorHasCompletionItemProvider && editorTextFocus && !editorReadonly"
+},
+{ "key": "alt+shift+m",
+  "command": "workbench.actions.view.problems"
+},
+{ "key": "alt+d",              "command": "cursorPageDown",
+                                     "when": "editorTextFocus" },
+{ "key": "alt+u",                "command": "cursorPageUp",
+                                     "when": "editorTextFocus" },
+{ "key": "alt+shift+u",
+  "command": "workbench.action.output.toggleOutput" }]
